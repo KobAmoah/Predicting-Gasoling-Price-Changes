@@ -1,4 +1,4 @@
-# Predicting Gasoline Price Changes (Univariate Time-Series Analysis).
+# Predicting Gasoline Price Changes (Univariate Time-Series Analysis)
 
 
   This is my first github repository. The project aims to forecast gas returns at some future lead time l= 1,2,3..., 13 weeks ahead. Since this process involves calculating best forecasts, standard errors are provided, where necessary, as a measure of accuracy on either side of the forecast. 
